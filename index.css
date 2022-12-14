@@ -101,3 +101,11 @@ body {
 	
 	color: rgb(0, 200, 0);
 }
+.logo1{
+	text-shadow: 4px 5px 1rem rgba(255, 255, 255, 0.5);
+	padding-top: 1rem;
+}
+.logo2{
+	box-shadow: 4px 5px 1rem rgba(255, 255, 255, 0.5);
+
+}
