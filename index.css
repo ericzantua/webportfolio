@@ -19,7 +19,7 @@ body {
 	color: whitesmoke;
 	width: 90%;
 	max-width: 400px;
-	padding: 5rem 2.5rem;
+	padding: 2.5rem 2.5rem;
 
 	border-radius: 1rem;
 	border: 1px solid transparent;
@@ -97,15 +97,34 @@ body {
    color: white;
    text-align: center;
 }
+.nav1 {
+
+	backdrop-filter: blur(1rem);
+	box-shadow: 1.3rem 1.3rem 1.3rem rgba(0, 0, 0, 0.5);	
+   
+   left: 0;
+   
+   width: 100%;
+   background-color: rgba(255, 255, 255, 0.1);
+   color: white;
+   text-align: left;
+
+}
 .span1{
 	
 	color: rgb(0, 200, 0);
 }
 .logo1{
 	text-shadow: 4px 5px 1rem rgba(255, 255, 255, 0.5);
-	padding-top: 1rem;
+	padding-top: .5rem;
 }
 .logo2{
 	box-shadow: 4px 5px 1rem rgba(255, 255, 255, 0.5);
+
+}
+.navtext{
+	margin-left: 10px;
+	margin-right: 5px;
+	text-decoration: none;
 
 }
