@@ -53,12 +53,13 @@ body {
 }
 .card-text{
 	padding-top: 2rem;
+
 }
 .card-link2{
-	color: rgb(0, 128, 255);
+	color: rgb(0, 255, 255);
 }
 .card-link3{
-	color: rgb(0, 128, 255);
+	color: rgb(0, 255, 255);
 	text-decoration: none;
 }
 .label1{
@@ -116,7 +117,7 @@ body {
 }
 .logo1{
 	text-shadow: 4px 5px 1rem rgba(255, 255, 255, 0.5);
-	padding-top: .5rem;
+	padding-top: 1.5rem;
 }
 .logo2{
 	box-shadow: 4px 5px 1rem rgba(255, 255, 255, 0.5);
