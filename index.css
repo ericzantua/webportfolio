@@ -1,10 +1,12 @@
 /*google fonts*/
 body {
 	font-family: 'Gothic A1', sans-serif;
+	/*background-color: rgb(199, 0, 57);
 	background-image: url(images/wallpaper.jpg);
+	
 	background-size: cover;
 	background-position: center center;
-	background-attachment: fixed;
+	background-attachment: fixed;*/
 
 }
 .title{
@@ -16,7 +18,7 @@ body {
 }
 
 .card2{
-	color: whitesmoke;
+	color: rgb(199, 0, 57);
 	width: 90%;
 	max-width: 400px;
 	padding: 2.5rem 2.5rem;
@@ -28,38 +30,28 @@ body {
 	box-shadow: 1.3rem 1.3rem 1.3rem rgba(0, 0, 0, 0.5);
 
 }
-.card3{
-	color: whitesmoke;
-	width: 90%;
-	max-width: 400px;
-	padding: 2rem 2rem;
 
-	border-radius: 1rem;
-	border: 1px solid transparent;
-
-	backdrop-filter: blur(1rem);
-	box-shadow: 1.3rem 1.3rem 1.3rem rgba(0, 0, 0, 0.5);
-	
-
-}
 .cb1{
-	background-color: rgba(255, 255, 255, 0.1);
+	background-color: rgba(0, 100, 0, 0.2);
 }
 .cb2{
 	background-color: rgba(0, 100, 0, 0.2);
+	color: rgb(199, 0, 57); 	;
+
 }
 .card-title{
 	padding-top: 2rem;
+
 }
 .card-text{
 	padding-top: 2rem;
 
 }
 .card-link2{
-	color: rgb(0, 255, 255);
+	color: rgb(40, 55, 71);
 }
 .card-link3{
-	color: rgb(0, 255, 255);
+	color: rgb(40, 55, 71);
 	text-decoration: none;
 }
 .label1{
@@ -72,14 +64,14 @@ body {
 }
 
 .card-link4{
-	color: white;
+	color: rgb(199, 0, 57);
 	text-decoration: none;
 }
 .mb-5{
 	padding-top: 2rem;
 }
 .mb-6{
-	padding-top: 2rem;
+	padding-top: 1rem;
 	color: rgb(70, 180, 125);
 }
 .footer {
@@ -89,7 +81,7 @@ body {
 	
 
 	backdrop-filter: blur(1rem);
-	box-shadow: 1.3rem 1.3rem 1.3rem rgba(0, 0, 0, 0.5);	
+	box-shadow: 1rem 1rem 1rem rgba(0, 0, 0, 0.5);	
    
    left: 0;
    
@@ -101,7 +93,7 @@ body {
 .nav1 {
 
 	backdrop-filter: blur(1rem);
-	box-shadow: 1.3rem 1.3rem 1.3rem rgba(0, 0, 0, 0.5);	
+	box-shadow: 1rem 1rem 1rem rgba(0, 0, 0, 0.5);	
    
    left: 0;
    
@@ -113,14 +105,18 @@ body {
 }
 .span1{
 	
-	color: rgb(0, 200, 0);
+	color: rgb(40, 55, 71);
 }
 .logo1{
-	text-shadow: 4px 5px 1rem rgba(255, 255, 255, 0.5);
-	padding-top: 1.5rem;
+	text-shadow: 1rem 1rem 1rem rgba(0, 0, 0, 0.5);
+	padding-top: 2.5rem;
 }
 .logo2{
-	box-shadow: 4px 5px 1rem rgba(255, 255, 255, 0.5);
+	box-shadow: 1rem 1rem 1rem rgba(0, 0, 0, 0.5);
+	border-color: RGB(249, 231, 159);
+	border-width: 2px;
+
+  
 
 }
 .navtext{
